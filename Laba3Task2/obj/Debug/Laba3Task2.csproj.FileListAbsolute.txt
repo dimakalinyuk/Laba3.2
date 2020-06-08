@@ -1,0 +1,7 @@
+C:\Users\Діма\Desktop\Навчання\1 курс 2 семестр\ООП\Laba3\Laba3Task2\Laba3Task2\bin\Debug\Laba3Task2.exe.config
+C:\Users\Діма\Desktop\Навчання\1 курс 2 семестр\ООП\Laba3\Laba3Task2\Laba3Task2\bin\Debug\Laba3Task2.exe
+C:\Users\Діма\Desktop\Навчання\1 курс 2 семестр\ООП\Laba3\Laba3Task2\Laba3Task2\bin\Debug\Laba3Task2.pdb
+C:\Users\Діма\Desktop\Навчання\1 курс 2 семестр\ООП\Laba3\Laba3Task2\Laba3Task2\obj\Debug\Laba3Task2.csprojAssemblyReference.cache
+C:\Users\Діма\Desktop\Навчання\1 курс 2 семестр\ООП\Laba3\Laba3Task2\Laba3Task2\obj\Debug\Laba3Task2.csproj.CoreCompileInputs.cache
+C:\Users\Діма\Desktop\Навчання\1 курс 2 семестр\ООП\Laba3\Laba3Task2\Laba3Task2\obj\Debug\Laba3Task2.exe
+C:\Users\Діма\Desktop\Навчання\1 курс 2 семестр\ООП\Laba3\Laba3Task2\Laba3Task2\obj\Debug\Laba3Task2.pdb
